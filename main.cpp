@@ -1,8 +1,6 @@
-imt main9){
+#include <iostream>
+using namespace std;
 
-123;
-123112;
-23212312;
-
+int main() {
 
 }
